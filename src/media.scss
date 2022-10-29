@@ -1,0 +1,13 @@
+@media (min-width: 768px) {
+	.advice {
+		padding: 45px 40px 72px 40px;
+		&__number {
+			font-size: 15px;
+			letter-spacing: 0.2em;
+		}
+		&__text {
+			font-size: 28px;
+			margin: 24px 0 40px 0;
+		}
+	}
+}
